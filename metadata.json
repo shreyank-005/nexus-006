@@ -1,0 +1,10 @@
+{
+  "name": "SYNAPSE SCREEN — AI-Powered Document & Identity Screening System",
+  "description": "Mission-critical identity document verification, forensic tampering detection, and biometric face comparison system designed for Sashastra Seema Bal (SSB) and Ministry of Home Affairs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
